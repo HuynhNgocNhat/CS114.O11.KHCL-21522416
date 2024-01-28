@@ -1,1 +1,2 @@
 # CS114.O11.KHCL-21522416
+TO DOWNLOAD MY PRETRAIN MODEL PLEASE FOLLOW THIS URL https://drive.google.com/drive/folders/1m2_p2n2GWdJvO9ORLKRw_pqgrX4V5Vo8?usp=sharing
